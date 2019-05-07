@@ -57,7 +57,7 @@
 **<http://docs.cloudfoundry.org/>**
 
 <div id='6'></div>
-#   2. Cubrid 서비스팩 설치
+#   3. Cubrid연동 Sample App 설명
 
 ### <div id='7'>
 2.1. 설치전 준비사항
